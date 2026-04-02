@@ -2,7 +2,7 @@
 A browser-based analytics tool for visualising player behaviour across matches — built for Level Designers to explore movement, kills, deaths, loot patterns, and bot vs human activity on a live minimap.
 
 🔗 Live Demo
-Hosted URL: https://YOUR-APP.streamlit.app ← replace this after deploying
+Hosted URL: (https://github.com/Kadamdarshann/player-journey-tool)
 
 🛠 Tech Stack
 Layer
